@@ -1,0 +1,6 @@
+NOTES:
+-When creating a new smart contract implementation,
+We can not change the "storage layout" of our implementation contract, this means we cannot remove or change 
+variable types. 
+
+WANRING: Always run test as hardhat local network.

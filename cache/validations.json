@@ -1,0 +1,312 @@
+{
+  "version": "3.2",
+  "log": [
+    {
+      "BoxV2": {
+        "src": "contracts\\BoxV2.sol:7",
+        "version": {
+          "withMetadata": "6e40475553995c9b91272680c904e8b3dcd780d6142bbf37882307d56d0dc35d",
+          "withoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc",
+          "linkedWithoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "BoxV2",
+              "src": "contracts\\BoxV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "Box": {
+        "src": "contracts\\Box.sol:5",
+        "version": {
+          "withMetadata": "4d6ae2fa987c2aaab4cfac928422a4f40da0374b256b4da5c3c08f7d49b5107d",
+          "withoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f",
+          "linkedWithoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Box",
+              "src": "contracts\\Box.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      },
+      "BoxV2": {
+        "src": "contracts\\BoxV2.sol:7",
+        "version": {
+          "withMetadata": "dd3c7af91aef0fd7822ea2847231ba8f19485e36f94cf8ba27acc89471a91069",
+          "withoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc",
+          "linkedWithoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "BoxV2",
+              "src": "contracts\\BoxV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "BoxV2": {
+        "src": "contracts\\BoxV2.sol:7",
+        "version": {
+          "withMetadata": "4fdcd8f89abc3f2ca8b3e807ffff99a5dcaf245e200686bc1809baf8785a0f60",
+          "withoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc",
+          "linkedWithoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "BoxV2",
+              "src": "contracts\\BoxV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "Box": {
+        "src": "contracts\\Box.sol:5",
+        "version": {
+          "withMetadata": "6a5a5843d7aaa0940c03a6464980e49efd5467f9e1ddf4a48e8d686254314776",
+          "withoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f",
+          "linkedWithoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Box",
+              "src": "contracts\\Box.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "BoxV2": {
+        "src": "contracts\\BoxV2.sol:7",
+        "version": {
+          "withMetadata": "6e40475553995c9b91272680c904e8b3dcd780d6142bbf37882307d56d0dc35d",
+          "withoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc",
+          "linkedWithoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "BoxV2",
+              "src": "contracts\\BoxV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "Box": {
+        "src": "contracts\\BoxV2.sol:7",
+        "version": {
+          "withMetadata": "67219ef316c3fae91945d899d48c8415c0773c2417eb3288288de73f30759fe6",
+          "withoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc",
+          "linkedWithoutMetadata": "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()",
+          "increment()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Box",
+              "src": "contracts\\BoxV2.sol:8"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    },
+    {
+      "Box": {
+        "src": "contracts\\Box.sol:5",
+        "version": {
+          "withMetadata": "72e32f3fe46b4a010dcef64e494aa6e0b4cc5efa2f6fde98743d6f14a6227078",
+          "withoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f",
+          "linkedWithoutMetadata": "cba9f8cf52e3c449631a04ea218a6cedcaf7c366669cfc257c89a008266c768f"
+        },
+        "inherit": [],
+        "libraries": [],
+        "methods": [
+          "store(uint256)",
+          "retrieve()"
+        ],
+        "linkReferences": [],
+        "errors": [],
+        "layout": {
+          "storage": [
+            {
+              "label": "value",
+              "offset": 0,
+              "slot": "0",
+              "type": "t_uint256",
+              "contract": "Box",
+              "src": "contracts\\Box.sol:6"
+            }
+          ],
+          "types": {
+            "t_uint256": {
+              "label": "uint256",
+              "numberOfBytes": "32"
+            }
+          },
+          "layoutVersion": "1.1",
+          "flat": true
+        }
+      }
+    }
+  ]
+}

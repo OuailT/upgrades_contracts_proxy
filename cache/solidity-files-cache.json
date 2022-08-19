@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Open the door\\Learn And Grow Up\\Learn And Grow Up\\Crypto WORLD\\Cyrpto projects\\UpgradesProxy\\upgradesContracts\\contracts\\Box.sol": {
+      "lastModificationDate": 1660901534194,
+      "contentHash": "fc1936a20ca76733b4dd575ebdbf0fd4",
+      "sourceName": "contracts/Box.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.9"
+      ],
+      "artifacts": [
+        "Box"
+      ]
+    },
+    "D:\\Open the door\\Learn And Grow Up\\Learn And Grow Up\\Crypto WORLD\\Cyrpto projects\\UpgradesProxy\\upgradesContracts\\contracts\\BoxV2.sol": {
+      "lastModificationDate": 1660901932441,
+      "contentHash": "9b5c7e6c6f80dda1ebe87cd6525fc467",
+      "sourceName": "contracts/BoxV2.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "storageLayout"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "BoxV2"
+      ]
+    }
+  }
+}
